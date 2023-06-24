@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497244459448",
+    "project_id": "csgostatsfirebase",
+    "storage_bucket": "csgostatsfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497244459448:android:4f3d08b0f95b7bee36ff4d",
+        "android_client_info": {
+          "package_name": "com.example.csgostats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497244459448-a6dbk2jnqtkao2daamh03e3lddmm4cdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8acH0v_hqNHP7cC9znb6Ia4lNbixS1hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497244459448-a6dbk2jnqtkao2daamh03e3lddmm4cdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
